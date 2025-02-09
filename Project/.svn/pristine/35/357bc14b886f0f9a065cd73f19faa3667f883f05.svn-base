@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60248E0F-1A62-45AA-860B-2893EB9C4CCB}|InvoicesData\\InvoicesData.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\invoicesdata\\tables\\tableinvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60248E0F-1A62-45AA-860B-2893EB9C4CCB}|InvoicesData\\InvoicesData.csproj|solutionrelative:invoicesdata\\tables\\tableinvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60248E0F-1A62-45AA-860B-2893EB9C4CCB}|InvoicesData\\InvoicesData.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\invoicesdata\\tables\\tablecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60248E0F-1A62-45AA-860B-2893EB9C4CCB}|InvoicesData\\InvoicesData.csproj|solutionrelative:invoicesdata\\tables\\tablecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60248E0F-1A62-45AA-860B-2893EB9C4CCB}|InvoicesData\\InvoicesData.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\invoicesdata\\records\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60248E0F-1A62-45AA-860B-2893EB9C4CCB}|InvoicesData\\InvoicesData.csproj|solutionrelative:invoicesdata\\records\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E963F30-0A11-4E62-A5FB-BC11D379A559}|InvoicesUX\\InvoicesUX.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\invoicesux\\cformtemplatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E963F30-0A11-4E62-A5FB-BC11D379A559}|InvoicesUX\\InvoicesUX.csproj|solutionrelative:invoicesux\\cformtemplatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E963F30-0A11-4E62-A5FB-BC11D379A559}|InvoicesUX\\InvoicesUX.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\invoicesux\\winforms\\cformtablecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E963F30-0A11-4E62-A5FB-BC11D379A559}|InvoicesUX\\InvoicesUX.csproj|solutionrelative:invoicesux\\winforms\\cformtablecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E963F30-0A11-4E62-A5FB-BC11D379A559}|InvoicesUX\\InvoicesUX.csproj|C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\invoicesux\\cformtemplatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E963F30-0A11-4E62-A5FB-BC11D379A559}|InvoicesUX\\InvoicesUX.csproj|solutionrelative:invoicesux\\cformtemplatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C44B3-2DE2-481A-A6A8-9ABEDBAA8EFB}|InvoicesLogic\\InvoicesLogic.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\invoiceslogic\\entities\\cappinvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04C44B3-2DE2-481A-A6A8-9ABEDBAA8EFB}|InvoicesLogic\\InvoicesLogic.csproj|solutionrelative:invoiceslogic\\entities\\cappinvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C44B3-2DE2-481A-A6A8-9ABEDBAA8EFB}|InvoicesLogic\\InvoicesLogic.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\invoiceslogic\\entities\\ccustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04C44B3-2DE2-481A-A6A8-9ABEDBAA8EFB}|InvoicesLogic\\InvoicesLogic.csproj|solutionrelative:invoiceslogic\\entities\\ccustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E963F30-0A11-4E62-A5FB-BC11D379A559}|InvoicesUX\\InvoicesUX.csproj|C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\invoicesux\\winforms\\cformtablecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E963F30-0A11-4E62-A5FB-BC11D379A559}|InvoicesUX\\InvoicesUX.csproj|solutionrelative:invoicesux\\winforms\\cformtablecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C44B3-2DE2-481A-A6A8-9ABEDBAA8EFB}|InvoicesLogic\\InvoicesLogic.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\invoiceslogic\\datamodules\\cdmappinvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04C44B3-2DE2-481A-A6A8-9ABEDBAA8EFB}|InvoicesLogic\\InvoicesLogic.csproj|solutionrelative:invoiceslogic\\datamodules\\cdmappinvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E963F30-0A11-4E62-A5FB-BC11D379A559}|InvoicesUX\\InvoicesUX.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\invoicesux\\winforms\\cviewentityappinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E963F30-0A11-4E62-A5FB-BC11D379A559}|InvoicesUX\\InvoicesUX.csproj|solutionrelative:invoicesux\\winforms\\cviewentityappinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977E2D5E-9159-4493-85A4-3B72C49B9CA1}|Lib.UX\\Lib.UX.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\lib.ux\\datagrid\\ceditablegriddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977E2D5E-9159-4493-85A4-3B72C49B9CA1}|Lib.UX\\Lib.UX.csproj|solutionrelative:lib.ux\\datagrid\\ceditablegriddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E963F30-0A11-4E62-A5FB-BC11D379A559}|InvoicesUX\\InvoicesUX.csproj|C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\invoicesux\\winforms\\cviewentityappinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E963F30-0A11-4E62-A5FB-BC11D379A559}|InvoicesUX\\InvoicesUX.csproj|solutionrelative:invoicesux\\winforms\\cviewentityappinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CUSTOMER.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesData\\Records\\CUSTOMER.cs",
+              "RelativeDocumentMoniker": "InvoicesData\\Records\\CUSTOMER.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesData\\Records\\CUSTOMER.cs",
+              "RelativeToolTip": "InvoicesData\\Records\\CUSTOMER.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:16:38.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TableCUSTOMER.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesData\\Tables\\TableCUSTOMER.cs",
+              "RelativeDocumentMoniker": "InvoicesData\\Tables\\TableCUSTOMER.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesData\\Tables\\TableCUSTOMER.cs",
+              "RelativeToolTip": "InvoicesData\\Tables\\TableCUSTOMER.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:16:30.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CFormTemplateTable.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesUX\\CFormTemplateTable.cs",
+              "RelativeDocumentMoniker": "InvoicesUX\\CFormTemplateTable.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesUX\\CFormTemplateTable.cs",
+              "RelativeToolTip": "InvoicesUX\\CFormTemplateTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:37:48.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CFormTemplateTable.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesUX\\CFormTemplateTable.cs",
+              "RelativeDocumentMoniker": "InvoicesUX\\CFormTemplateTable.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesUX\\CFormTemplateTable.cs [Design]",
+              "RelativeToolTip": "InvoicesUX\\CFormTemplateTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:37:43.717Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CFormTableCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesUX\\WinForms\\CFormTableCustomer.cs",
+              "RelativeDocumentMoniker": "InvoicesUX\\WinForms\\CFormTableCustomer.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesUX\\WinForms\\CFormTableCustomer.cs",
+              "RelativeToolTip": "InvoicesUX\\WinForms\\CFormTableCustomer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:37:24.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesLogic\\Entities\\CCustomer.cs",
+              "RelativeDocumentMoniker": "InvoicesLogic\\Entities\\CCustomer.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesLogic\\Entities\\CCustomer.cs",
+              "RelativeToolTip": "InvoicesLogic\\Entities\\CCustomer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:21:34.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CAppInvoices.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesLogic\\Entities\\CAppInvoices.cs",
+              "RelativeDocumentMoniker": "InvoicesLogic\\Entities\\CAppInvoices.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesLogic\\Entities\\CAppInvoices.cs",
+              "RelativeToolTip": "InvoicesLogic\\Entities\\CAppInvoices.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAzwD8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:20:27.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CDMAppInvoices.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesLogic\\DataModules\\CDMAppInvoices.cs",
+              "RelativeDocumentMoniker": "InvoicesLogic\\DataModules\\CDMAppInvoices.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesLogic\\DataModules\\CDMAppInvoices.cs",
+              "RelativeToolTip": "InvoicesLogic\\DataModules\\CDMAppInvoices.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAEwIcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:17:42.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TableINVOICES.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesData\\Tables\\TableINVOICES.cs",
+              "RelativeDocumentMoniker": "InvoicesData\\Tables\\TableINVOICES.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesData\\Tables\\TableINVOICES.cs",
+              "RelativeToolTip": "InvoicesData\\Tables\\TableINVOICES.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAowIMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:17:42.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CFormTableCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesUX\\WinForms\\CFormTableCustomer.cs",
+              "RelativeDocumentMoniker": "InvoicesUX\\WinForms\\CFormTableCustomer.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesUX\\WinForms\\CFormTableCustomer.cs [Design]",
+              "RelativeToolTip": "InvoicesUX\\WinForms\\CFormTableCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:37:22.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CEditableGridDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\Lib.UX\\DataGrid\\CEditableGridDecorator.cs",
+              "RelativeDocumentMoniker": "Lib.UX\\DataGrid\\CEditableGridDecorator.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\Lib.UX\\DataGrid\\CEditableGridDecorator.cs",
+              "RelativeToolTip": "Lib.UX\\DataGrid\\CEditableGridDecorator.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAvwE4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:17:42.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CViewEntityAppInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesUX\\WinForms\\CViewEntityAppInvoice.cs",
+              "RelativeDocumentMoniker": "InvoicesUX\\WinForms\\CViewEntityAppInvoice.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesUX\\WinForms\\CViewEntityAppInvoice.cs",
+              "RelativeToolTip": "InvoicesUX\\WinForms\\CViewEntityAppInvoice.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAEwFkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:46:59.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CViewEntityAppInvoice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesUX\\WinForms\\CViewEntityAppInvoice.cs",
+              "RelativeDocumentMoniker": "InvoicesUX\\WinForms\\CViewEntityAppInvoice.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesUX\\WinForms\\CViewEntityAppInvoice.cs [Design]",
+              "RelativeToolTip": "InvoicesUX\\WinForms\\CViewEntityAppInvoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:46:54.767Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

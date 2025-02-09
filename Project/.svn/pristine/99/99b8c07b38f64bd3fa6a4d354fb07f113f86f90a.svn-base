@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D807D-28DB-4EC5-A502-8EDE5DC797B2}|InvoicesCommon\\InvoicesCommon.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\invoicescommon\\capppaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D807D-28DB-4EC5-A502-8EDE5DC797B2}|InvoicesCommon\\InvoicesCommon.csproj|solutionrelative:invoicescommon\\capppaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D807D-28DB-4EC5-A502-8EDE5DC797B2}|InvoicesCommon\\InvoicesCommon.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\invoicescommon\\csettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D807D-28DB-4EC5-A502-8EDE5DC797B2}|InvoicesCommon\\InvoicesCommon.csproj|solutionrelative:invoicescommon\\csettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5645472-7B3C-41D1-A41B-1A19B74FF594}|WindowsApp\\WindowsApp.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\windowsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5645472-7B3C-41D1-A41B-1A19B74FF594}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5645472-7B3C-41D1-A41B-1A19B74FF594}|WindowsApp\\WindowsApp.csproj|c:\\users\\jurge\\documents\\object orineted patterns\\project\\windowsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5645472-7B3C-41D1-A41B-1A19B74FF594}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CAppPaths.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesCommon\\CAppPaths.cs",
+              "RelativeDocumentMoniker": "InvoicesCommon\\CAppPaths.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesCommon\\CAppPaths.cs",
+              "RelativeToolTip": "InvoicesCommon\\CAppPaths.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:55:13.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSettings.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesCommon\\CSettings.cs",
+              "RelativeDocumentMoniker": "InvoicesCommon\\CSettings.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\InvoicesCommon\\CSettings.cs",
+              "RelativeToolTip": "InvoicesCommon\\CSettings.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:55:10.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\WindowsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\WindowsApp\\Form1.cs",
+              "RelativeToolTip": "WindowsApp\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:40:27.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\WindowsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\Object Orineted Patterns\\Project\\WindowsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:40:24.302Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

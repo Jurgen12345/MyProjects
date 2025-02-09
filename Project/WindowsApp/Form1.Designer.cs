@@ -1,0 +1,125 @@
+﻿namespace WindowsApp
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            menuStrip1 = new MenuStrip();
+            masterToolStripMenuItem = new ToolStripMenuItem();
+            tsmInvoices = new ToolStripMenuItem();
+            tsmInvoiceLine = new ToolStripMenuItem();
+            tablesToolStripMenuItem = new ToolStripMenuItem();
+            tsmCustomers = new ToolStripMenuItem();
+            tsmItems = new ToolStripMenuItem();
+            tsmSuppliers = new ToolStripMenuItem();
+            menuStrip1.SuspendLayout();
+            SuspendLayout();
+            // 
+            // menuStrip1
+            // 
+            menuStrip1.Items.AddRange(new ToolStripItem[] { masterToolStripMenuItem, tablesToolStripMenuItem });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Size = new Size(800, 24);
+            menuStrip1.TabIndex = 0;
+            menuStrip1.Text = "menuStrip1";
+            // 
+            // masterToolStripMenuItem
+            // 
+            masterToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { tsmInvoices, tsmInvoiceLine });
+            masterToolStripMenuItem.Name = "masterToolStripMenuItem";
+            masterToolStripMenuItem.Size = new Size(55, 20);
+            masterToolStripMenuItem.Text = "Master";
+            // 
+            // tsmInvoices
+            // 
+            tsmInvoices.Name = "tsmInvoices";
+            tsmInvoices.Size = new Size(180, 22);
+            tsmInvoices.Text = "Invoices";
+            tsmInvoices.Click += invoicesWindowsOpen;
+            // 
+            // tsmInvoiceLine
+            // 
+            tsmInvoiceLine.Name = "tsmInvoiceLine";
+            tsmInvoiceLine.Size = new Size(180, 22);
+            tsmInvoiceLine.Text = "Invoice Lines";
+            // 
+            // tablesToolStripMenuItem
+            // 
+            tablesToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { tsmCustomers, tsmItems, tsmSuppliers });
+            tablesToolStripMenuItem.Name = "tablesToolStripMenuItem";
+            tablesToolStripMenuItem.Size = new Size(51, 20);
+            tablesToolStripMenuItem.Text = "Tables";
+            // 
+            // tsmCustomers
+            // 
+            tsmCustomers.Name = "tsmCustomers";
+            tsmCustomers.Size = new Size(131, 22);
+            tsmCustomers.Text = "Customers";
+            tsmCustomers.Click += onCustomersClick;
+            // 
+            // tsmItems
+            // 
+            tsmItems.Name = "tsmItems";
+            tsmItems.Size = new Size(131, 22);
+            tsmItems.Text = "Items";
+            tsmItems.Click += onItemClick;
+            // 
+            // tsmSuppliers
+            // 
+            tsmSuppliers.Name = "tsmSuppliers";
+            tsmSuppliers.Size = new Size(131, 22);
+            tsmSuppliers.Text = "Suppliers";
+            tsmSuppliers.Click += onSupplierClick;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(menuStrip1);
+            MainMenuStrip = menuStrip1;
+            Name = "Form1";
+            Text = "Form1";
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private MenuStrip menuStrip1;
+        private ToolStripMenuItem masterToolStripMenuItem;
+        private ToolStripMenuItem tablesToolStripMenuItem;
+        private ToolStripMenuItem tsmInvoices;
+        private ToolStripMenuItem tsmInvoiceLine;
+        private ToolStripMenuItem tsmCustomers;
+        private ToolStripMenuItem tsmItems;
+        private ToolStripMenuItem tsmSuppliers;
+    }
+}

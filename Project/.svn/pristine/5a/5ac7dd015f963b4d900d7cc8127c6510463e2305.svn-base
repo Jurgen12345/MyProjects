@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "InvoicesCommon/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/InvoicesCommon.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InvoicesCommon.dll": {}
+        }
+      },
+      "InvoicesData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "InvoicesCommon": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InvoicesData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InvoicesData.dll": {}
+        }
+      },
+      "InvoicesLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "InvoicesCommon": "1.0.0",
+          "InvoicesData": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InvoicesLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InvoicesLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvoicesCommon/1.0.0": {
+      "type": "project",
+      "path": "../InvoicesCommon/InvoicesCommon.csproj",
+      "msbuildProject": "../InvoicesCommon/InvoicesCommon.csproj"
+    },
+    "InvoicesData/1.0.0": {
+      "type": "project",
+      "path": "../InvoicesData/InvoicesData.csproj",
+      "msbuildProject": "../InvoicesData/InvoicesData.csproj"
+    },
+    "InvoicesLogic/1.0.0": {
+      "type": "project",
+      "path": "../InvoicesLogic/InvoicesLogic.csproj",
+      "msbuildProject": "../InvoicesLogic/InvoicesLogic.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "InvoicesCommon >= 1.0.0",
+      "InvoicesLogic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\20210433\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "Z:\\Code\\Project\\InvoicesUX\\InvoicesUX.csproj",
+      "projectName": "InvoicesUX",
+      "projectPath": "Z:\\Code\\Project\\InvoicesUX\\InvoicesUX.csproj",
+      "packagesPath": "C:\\Users\\20210433\\.nuget\\packages\\",
+      "outputPath": "Z:\\Code\\Project\\InvoicesUX\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\20210433\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "Z:\\Code\\Project\\InvoicesCommon\\InvoicesCommon.csproj": {
+              "projectPath": "Z:\\Code\\Project\\InvoicesCommon\\InvoicesCommon.csproj"
+            },
+            "Z:\\Code\\Project\\InvoicesLogic\\InvoicesLogic.csproj": {
+              "projectPath": "Z:\\Code\\Project\\InvoicesLogic\\InvoicesLogic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

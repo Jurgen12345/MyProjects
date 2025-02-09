@@ -1,0 +1,6 @@
+{
+  "IsNewUX": false,
+  "DBType": "MSSQL",
+  "DBInstanceName": "MyInstance",
+  "DatabaseName": "ERP"
+}

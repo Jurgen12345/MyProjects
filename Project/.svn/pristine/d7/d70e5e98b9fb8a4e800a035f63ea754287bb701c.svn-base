@@ -1,0 +1,143 @@
+﻿namespace Invoices.UX.WinForms
+{
+    partial class CViewEntityAppInvoice
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            dgvDetails = new DataGridView();
+            lblFullName = new Label();
+            lblCustomerId = new Label();
+            txtFullName = new TextBox();
+            txtCustomerId = new TextBox();
+            lblInvoiceItems = new Label();
+            btnNewDetail = new Button();
+            btnDeleteDetail = new Button();
+            ((System.ComponentModel.ISupportInitialize)dgvDetails).BeginInit();
+            SuspendLayout();
+            // 
+            // dgvDetails
+            // 
+            dgvDetails.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvDetails.Location = new Point(219, 161);
+            dgvDetails.Name = "dgvDetails";
+            dgvDetails.RowTemplate.Height = 25;
+            dgvDetails.Size = new Size(570, 344);
+            dgvDetails.TabIndex = 0;
+            // 
+            // lblFullName
+            // 
+            lblFullName.AutoSize = true;
+            lblFullName.Location = new Point(48, 15);
+            lblFullName.Name = "lblFullName";
+            lblFullName.Size = new Size(65, 15);
+            lblFullName.TabIndex = 1;
+            lblFullName.Text = "Invoice ID: ";
+            // 
+            // lblCustomerId
+            // 
+            lblCustomerId.AutoSize = true;
+            lblCustomerId.Location = new Point(37, 46);
+            lblCustomerId.Name = "lblCustomerId";
+            lblCustomerId.Size = new Size(76, 15);
+            lblCustomerId.TabIndex = 2;
+            lblCustomerId.Text = "Customer ID:";
+            // 
+            // txtFullName
+            // 
+            txtFullName.Location = new Point(118, 12);
+            txtFullName.Name = "txtFullName";
+            txtFullName.Size = new Size(326, 23);
+            txtFullName.TabIndex = 4;
+            // 
+            // txtCustomerId
+            // 
+            txtCustomerId.Location = new Point(119, 46);
+            txtCustomerId.Name = "txtCustomerId";
+            txtCustomerId.Size = new Size(326, 23);
+            txtCustomerId.TabIndex = 5;
+            // 
+            // lblInvoiceItems
+            // 
+            lblInvoiceItems.AutoSize = true;
+            lblInvoiceItems.Location = new Point(219, 131);
+            lblInvoiceItems.Name = "lblInvoiceItems";
+            lblInvoiceItems.Size = new Size(136, 15);
+            lblInvoiceItems.TabIndex = 6;
+            lblInvoiceItems.Text = "Items Inside The Invoice:";
+            // 
+            // btnNewDetail
+            // 
+            btnNewDetail.Location = new Point(719, 123);
+            btnNewDetail.Name = "btnNewDetail";
+            btnNewDetail.Size = new Size(32, 32);
+            btnNewDetail.TabIndex = 7;
+            btnNewDetail.Text = "+";
+            btnNewDetail.UseVisualStyleBackColor = true;
+            btnNewDetail.Click += DoOnAnyCommand;
+            // 
+            // btnDeleteDetail
+            // 
+            btnDeleteDetail.Location = new Point(757, 123);
+            btnDeleteDetail.Name = "btnDeleteDetail";
+            btnDeleteDetail.Size = new Size(32, 32);
+            btnDeleteDetail.TabIndex = 8;
+            btnDeleteDetail.Text = "-";
+            btnDeleteDetail.UseVisualStyleBackColor = true;
+            btnDeleteDetail.Click += DoOnAnyCommand;
+            // 
+            // CViewEntityAppInvoice
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(801, 517);
+            Controls.Add(btnDeleteDetail);
+            Controls.Add(btnNewDetail);
+            Controls.Add(lblInvoiceItems);
+            Controls.Add(txtCustomerId);
+            Controls.Add(txtFullName);
+            Controls.Add(lblCustomerId);
+            Controls.Add(lblFullName);
+            Controls.Add(dgvDetails);
+            Name = "CViewEntityAppInvoice";
+            Text = "CViewEntityAppInvoice";
+            ((System.ComponentModel.ISupportInitialize)dgvDetails).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private DataGridView dgvDetails;
+        private Label lblFullName;
+        private Label lblCustomerId;
+        private TextBox txtFullName;
+        private TextBox txtCustomerId;
+        private Label lblInvoiceItems;
+        private Button btnNewDetail;
+        private Button btnDeleteDetail;
+    }
+}

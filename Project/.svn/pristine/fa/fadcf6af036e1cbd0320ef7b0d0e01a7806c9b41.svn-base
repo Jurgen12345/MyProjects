@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Invoices.Data</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Downloads\CS412_Examples\Week7\Lib\Lib.csproj" />
+    <ProjectReference Include="..\InvoicesCommon\InvoicesCommon.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+	  <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Invoices.UX</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Downloads\CS412_Examples\Week7\Lib.UX\Lib.UX.csproj" />
+    <ProjectReference Include="..\InvoicesCommon\InvoicesCommon.csproj" />
+    <ProjectReference Include="..\InvoicesLogic\InvoicesLogic.csproj" />
+    
+  </ItemGroup>
+
+</Project>
