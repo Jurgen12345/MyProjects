@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal">
+
+
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/user"
+        android:layout_gravity="center"
+        android:id="@+id/LibraryGameImage"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginTop="20dp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Placeholder title"
+        android:textSize="20dp"
+        android:fontFamily="@font/roboto_bold"
+        android:id="@+id/LibraryGameTitle"
+        android:textAlignment="center"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="20dp"
+        app:layout_constraintLeft_toRightOf="@id/LibraryGameImage"
+        app:layout_constraintRight_toRightOf="parent"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Placeholder text"
+        android:fontFamily="@font/roboto_medium"
+        android:layout_gravity="center"
+        android:layout_marginRight="30dp"
+        android:id="@+id/LibraryGameGenre"
+        android:layout_marginTop="10dp"
+        app:layout_constraintLeft_toRightOf="@id/LibraryGameImage"
+        app:layout_constraintTop_toBottomOf="@id/LibraryGameTitle"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Placholder description"
+        android:id="@+id/LibraryGameDescription"
+        app:layout_constraintTop_toBottomOf="@id/LibraryGameGenre"
+        app:layout_constraintLeft_toRightOf="@id/LibraryGameImage"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:fontFamily="@font/roboto_light"
+        android:textSize="12dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#145DA0"
+        android:text="Remove From Library"
+        app:layout_constraintTop_toBottomOf="@id/LibraryGameDescription"
+        app:layout_constraintLeft_toRightOf="@id/LibraryGameImage"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="10dp"
+        android:id="@+id/LibraryButtonForGames"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+</LinearLayout>
