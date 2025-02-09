@@ -1,0 +1,15 @@
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\bin\Debug\net6.0\License.Logic.deps.json
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\bin\Debug\net6.0\License.Logic.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\bin\Debug\net6.0\License.Logic.pdb
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\bin\Debug\net6.0\NetLicensingClient.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\bin\Debug\net6.0\NetLicensingClient.pdb
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\obj\Debug\net6.0\License.Logic.csproj.AssemblyReference.cache
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\obj\Debug\net6.0\License.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\obj\Debug\net6.0\License.Logic.AssemblyInfoInputs.cache
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\obj\Debug\net6.0\License.Logic.AssemblyInfo.cs
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\obj\Debug\net6.0\License.Logic.csproj.CoreCompileInputs.cache
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\obj\Debug\net6.0\License..E56D1090.Up2Date
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\obj\Debug\net6.0\License.Logic.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\obj\Debug\net6.0\refint\License.Logic.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\obj\Debug\net6.0\License.Logic.pdb
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\License.Logic\obj\Debug\net6.0\ref\License.Logic.dll

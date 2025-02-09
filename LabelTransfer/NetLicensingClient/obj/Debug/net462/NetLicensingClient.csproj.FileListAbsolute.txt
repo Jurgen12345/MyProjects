@@ -1,0 +1,16 @@
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\bin\Debug\net462\NetLicensingClient.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\bin\Debug\net462\NetLicensingClient.pdb
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\bin\Debug\net462\BouncyCastle.Crypto.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\bin\Debug\net462\System.Security.AccessControl.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\bin\Debug\net462\System.Security.Cryptography.Xml.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\bin\Debug\net462\System.Security.Permissions.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\bin\Debug\net462\System.Security.Principal.Windows.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\net462\NetLicensingClient.csproj.AssemblyReference.cache
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\net462\NetLicensingClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\net462\NetLicensingClient.AssemblyInfoInputs.cache
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\net462\NetLicensingClient.AssemblyInfo.cs
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\net462\NetLicensingClient.csproj.CoreCompileInputs.cache
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\net462\NetLicensingClient.sourcelink.json
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\net462\NetLicen.A9B11A96.Up2Date
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\net462\NetLicensingClient.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\net462\NetLicensingClient.pdb

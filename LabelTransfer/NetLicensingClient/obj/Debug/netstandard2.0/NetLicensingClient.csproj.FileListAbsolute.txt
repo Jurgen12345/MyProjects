@@ -1,0 +1,11 @@
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\bin\Debug\netstandard2.0\NetLicensingClient.deps.json
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\bin\Debug\netstandard2.0\NetLicensingClient.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\bin\Debug\netstandard2.0\NetLicensingClient.pdb
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\netstandard2.0\NetLicensingClient.csproj.AssemblyReference.cache
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\netstandard2.0\NetLicensingClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\netstandard2.0\NetLicensingClient.AssemblyInfoInputs.cache
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\netstandard2.0\NetLicensingClient.AssemblyInfo.cs
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\netstandard2.0\NetLicensingClient.csproj.CoreCompileInputs.cache
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\netstandard2.0\NetLicensingClient.sourcelink.json
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\netstandard2.0\NetLicensingClient.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\NetLicensingClient\obj\Debug\netstandard2.0\NetLicensingClient.pdb

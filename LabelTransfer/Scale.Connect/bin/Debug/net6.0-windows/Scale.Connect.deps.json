@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Scale.Connect/1.0.0": {
+        "runtime": {
+          "Scale.Connect.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Scale.Connect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\Scale.Connect\bin\Debug\net6.0-windows\Scale.Connect.deps.json
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\Scale.Connect\bin\Debug\net6.0-windows\Scale.Connect.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\Scale.Connect\bin\Debug\net6.0-windows\Scale.Connect.pdb
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\Scale.Connect\obj\Debug\net6.0-windows\Scale.Connect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\Scale.Connect\obj\Debug\net6.0-windows\Scale.Connect.AssemblyInfoInputs.cache
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\Scale.Connect\obj\Debug\net6.0-windows\Scale.Connect.AssemblyInfo.cs
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\Scale.Connect\obj\Debug\net6.0-windows\Scale.Connect.csproj.CoreCompileInputs.cache
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\Scale.Connect\obj\Debug\net6.0-windows\Scale.Connect.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\Scale.Connect\obj\Debug\net6.0-windows\refint\Scale.Connect.dll
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\Scale.Connect\obj\Debug\net6.0-windows\Scale.Connect.pdb
+C:\Users\jurge\Documents\babi_ujku\LabelTransfer\Scale.Connect\obj\Debug\net6.0-windows\ref\Scale.Connect.dll

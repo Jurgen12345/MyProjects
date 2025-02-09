@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "L73+iOL2+i8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jurge\\Documents\\babi_ujku\\LabelTransfer\\NetLicensingClient\\NetLicensingClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jurge\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.3\\microsoft.netframework.referenceassemblies.net462.1.0.3.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\portable.bouncycastle\\1.8.6.7\\portable.bouncycastle.1.8.6.7.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\system.security.cryptography.xml\\4.7.1\\system.security.cryptography.xml.4.7.1.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\jurge\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

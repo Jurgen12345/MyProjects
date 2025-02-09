@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFrameworks>netstandard2.0;net462</TargetFrameworks>
+    <ReleaseVersion>2.x</ReleaseVersion>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageId>NetLicensingClient-csharp</PackageId>
+    <PackageVersion>2.6.3</PackageVersion>
+    <Authors>Labs64 NetLicensing</Authors>
+    <Copyright>© 2010 Labs64 GmbH</Copyright>
+    <!-- PackageIcon>labs64-avatar-200x200.png</PackageIcon -->
+    <PackageIconUrl>https://netlicensing.io/img/labs64-avatar-200x200.png</PackageIconUrl>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <Owners>Labs64</Owners>
+    <PackageProjectUrl>https://netlicensing.io</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Labs64/NetLicensingClient-csharp</RepositoryUrl>
+    <PackageReleaseNotes>https://netlicensing.io/wiki/changelog</PackageReleaseNotes>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <Summary>C# wrapper for Labs64 NetLicensing RESTful API</Summary>
+    <PackageTags>Labs64 NetLicensing LaaS Licensing-as-a-Service entitlement software-licensing licensing license license-management validation activation concurrent floating metered-consumption node-locked subscription pay-per-use pricing-table membership</PackageTags>
+    <Title>Labs64 NetLicensing C# Client</Title>
+    <Description>Labs64 NetLicensing is a first-class solution in the Licensing-as-a-Service (LaaS) sector. Based on open standards, it provides a cost-effective, integrated and scalable platform for software vendors and developers who want to concentrate on their product’s core functionality instead of spending resources on developing an own license management software.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Security.Cryptography.Xml" Version="4.7.1" />
+    <PackageReference Include="Portable.BouncyCastle" Version="1.8.6.7" />
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

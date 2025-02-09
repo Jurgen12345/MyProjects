@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jurge\\Documents\\babi_ujku\\LabelTransfer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC8D201-7C8F-4B12-B26B-6932C224F477}|LabelTransfer\\LabelTransfer.csproj|c:\\users\\jurge\\documents\\babi_ujku\\labeltransfer\\labeltransfer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC8D201-7C8F-4B12-B26B-6932C224F477}|LabelTransfer\\LabelTransfer.csproj|solutionrelative:labeltransfer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC8D201-7C8F-4B12-B26B-6932C224F477}|LabelTransfer\\LabelTransfer.csproj|c:\\users\\jurge\\documents\\babi_ujku\\labeltransfer\\labeltransfer\\settings1.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{7FC8D201-7C8F-4B12-B26B-6932C224F477}|LabelTransfer\\LabelTransfer.csproj|solutionrelative:labeltransfer\\settings1.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99DD1C4-9520-48BA-BEE8-CE3B9759BBEF}|Scale.UX\\Scale.UX.csproj|C:\\Users\\jurge\\Documents\\babi_ujku\\LabelTransfer\\scale.ux\\cmainwindowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A99DD1C4-9520-48BA-BEE8-CE3B9759BBEF}|Scale.UX\\Scale.UX.csproj|solutionrelative:scale.ux\\cmainwindowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981149D9-8A82-4DCA-8459-75FDA0F7F3E8}|Scale.Connect\\Scale.Connect.csproj|c:\\users\\jurge\\documents\\babi_ujku\\labeltransfer\\scale.connect\\cscaleconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981149D9-8A82-4DCA-8459-75FDA0F7F3E8}|Scale.Connect\\Scale.Connect.csproj|solutionrelative:scale.connect\\cscaleconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981149D9-8A82-4DCA-8459-75FDA0F7F3E8}|Scale.Connect\\Scale.Connect.csproj|c:\\users\\jurge\\documents\\babi_ujku\\labeltransfer\\scale.connect\\connection\\result||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{981149D9-8A82-4DCA-8459-75FDA0F7F3E8}|Scale.Connect\\Scale.Connect.csproj|solutionrelative:scale.connect\\connection\\result||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings1.settings",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\babi_ujku\\LabelTransfer\\LabelTransfer\\Settings1.settings",
+              "RelativeDocumentMoniker": "LabelTransfer\\Settings1.settings",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\babi_ujku\\LabelTransfer\\LabelTransfer\\Settings1.settings",
+              "RelativeToolTip": "LabelTransfer\\Settings1.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-01-22T14:46:33.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "result",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\babi_ujku\\LabelTransfer\\Scale.Connect\\Connection\\result",
+              "RelativeDocumentMoniker": "Scale.Connect\\Connection\\result",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\babi_ujku\\LabelTransfer\\Scale.Connect\\Connection\\result",
+              "RelativeToolTip": "Scale.Connect\\Connection\\result",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-08T14:28:47.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CScaleConnect.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\babi_ujku\\LabelTransfer\\Scale.Connect\\CScaleConnect.cs",
+              "RelativeDocumentMoniker": "Scale.Connect\\CScaleConnect.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\babi_ujku\\LabelTransfer\\Scale.Connect\\CScaleConnect.cs",
+              "RelativeToolTip": "Scale.Connect\\CScaleConnect.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:25:47.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\babi_ujku\\LabelTransfer\\LabelTransfer\\Form1.cs",
+              "RelativeDocumentMoniker": "LabelTransfer\\Form1.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\babi_ujku\\LabelTransfer\\LabelTransfer\\Form1.cs",
+              "RelativeToolTip": "LabelTransfer\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:15:18.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CMainWindowForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jurge\\Documents\\babi_ujku\\LabelTransfer\\Scale.UX\\CMainWindowForm.cs",
+              "RelativeDocumentMoniker": "Scale.UX\\CMainWindowForm.cs",
+              "ToolTip": "C:\\Users\\jurge\\Documents\\babi_ujku\\LabelTransfer\\Scale.UX\\CMainWindowForm.cs [Design]",
+              "RelativeToolTip": "Scale.UX\\CMainWindowForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:51:46.605Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
