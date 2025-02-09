@@ -1,0 +1,28 @@
+{
+"Organize": "Organize Your Files: Before considering how you will regularly backup your data, it’s a good idea to organize your files and folders first so they are easier to backup. The following articles show you ways to organize your files, removing duplicate and old files, and securely delete files no longer needed.",
+
+"Cleanup": "Cleanup Unimportant Files: Once you have organized your files and folders, it’s time to perform some basic cleanup tasks to optimize your system. The articles below discuss using CCleaner to cleanup temp files, cookies, and internet history, manage startup programs, and even how to whitelist important cookies. We also show you how to schedule disk cleanup and disk defragmentation in Windows, use Check Disk, clean up old downloads automatically, and the best tips for speeding up your PC. These tips could help improve the performance of your PC, as well",
+
+"Disinfect": "Disinfect System from Malware: Before backing up your data (discussed later in this article), you should make sure your files are virus-free. We’ve covered various ways of disinfecting your PC, such as tools to clean your infected PC, how to scan files for viruses before using downloading and using them, and a simple trick to defeat fake anti-virus malware.",
+
+"Optimize": "Optimize Disk Usage: If, in the process of organizing your many files, you’ve discovered that you’re running low on disk space, there are easy ways to determine what is taking up the most space on your hard drive. The following articles show you 10 free tools for analyzing your hard drive space in Windows and some simple tips on reducing disk usage in Windows.",
+
+"Tweak": "Tweak Windows to Improve Performance: Another way to improve your PC’s performance is to tweak Windows. The following articles show you how to disable startup programs and built-in Windows features you don’t use and make system restore use less hard drive space. We also list the 20 best registry hacks to improve Windows and even how to delete user accounts in Windows 7 so your system isn’t cluttered with user accounts you don’t use.",
+
+"Update": "Update Windows and Software for Latest Fixes: Part of computer maintenance includes keeping Windows and your software programs up-to-date. The following articles show you how to force Windows to find update for more than just itself, such as for Microsoft Office and an easy method of checking for updates to your software programs. We also explain when you need to update your drivers and how to do so safely.",
+
+"Backup": "Back Up Your Data, Software Keys, and Drivers: Now that you’ve organized your files and folders and cleaned up, optimized your system, you need to consider your backup plan. Normally, when we think of backups, we think of backing up our data files. However, to make it easier to set up your system again, should the need arise, you should backup your software keys and drivers. This makes the process of re-installing software in a fresh install of Windows quicker and easier. The articles below show you how to recover keys for Windows and software programs and how to backup and restore hardware drivers. We also have collected the best articles we have published about backing up and syncing your data into one article.",
+
+"Install": "How to Install Windows 10 from a USB Drive: Most modern computers don’t have a CD or DVD drive, so installing Windows 10 using a disc isn’t always possible. The good news is you don’t need discs anymore—all you need is a USB drive.",
+
+"GDrive": "Install Drive on the Desktop: Google Drive syncs across devices, so you can start a project on the PC and pick it up on your phone, tablet, or home laptop. Plus, it works with any kind of document, not just native Docs, Sheets, and Slides. Install Drive for Desktop(Opens in a new window) on your PC to automatically back up files from your computer (you pick the folders) to Google Drive or even to Google Photos. You can then access those files easily using the mobile Google Drive apps for iOS and Android. (Just be mindful of that 15GB data limit for free accounts if you're backing up everything.)",
+
+"DragAndDrop": "Drag and Drop Into Drive: Google Drive has a big New button in the interface for creating new files. It's also how you upload a file or folder. Skip that part and drag files from Windows Explorer or the macOS Finder right into Google Drive's list. At the bottom of the browser screen, you'll see a cloud with an up arrow to indicate you can let go of the file you're dragging. Better yet, mouse over the name of one of your Drive folders to drop it instantly to a folder",
+
+"GMail": "Thunderbird and Gmail: Thunderbird can be configured to work seamlessly with Google's Gmail service. Messages are synchronized between your local version of Thunderbird and the web-based Gmail.",
+ 
+"Drivers": "What is a driver? The driver, which was written by the same company that designed and manufactured the device, knows how to communicate with the device hardware to get the data. After the driver gets the data from the device, it returns the data to the operating system, which returns it to the application.",
+
+"DirectX": "Which version of DirectX is on your PC? DirectX is a suite of multimedia technologies required by many Windows games. If your PC doesn't have the right version of DirectX installed (the product box should tell you which one you need), your game might not work properly."
+
+}
